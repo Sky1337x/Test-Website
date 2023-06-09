@@ -1,3 +1,8 @@
 .Page_Heading{
     text-align: center;
 }
+
+.Left_Align{
+    display: block;
+    margin-left: 0%;   
+}
